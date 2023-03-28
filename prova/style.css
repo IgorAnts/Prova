@@ -1,0 +1,13 @@
+.titulo, p{
+    
+    color: rgb(255, 230, 0);
+}
+.titulo{
+    font-size: 30px
+}
+
+#imagem{
+    background-color: aqua;
+    float: right;
+    border: 2px solid green;
+}
